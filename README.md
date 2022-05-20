@@ -3,8 +3,8 @@ Prof. Vinicíus Mota
 DI/UFES
 
 Alunos: 
-  - Juliana Repossi - 2020100631
-  - Christian Junji - 2020100735
+  - Juliana Repossi
+  - Christian Junji 
 
 ## Considerações
 
